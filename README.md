@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Küsters</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/_HO7RFlH-DoAAAAd/monkeyc-coding.gif](https://giphy.com/gifs/television-idioms-maintechno-5WAdRevloGjuw)">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/television-idioms-maintechno-5WAdRevloGjuw">
 
 - 🔭 I’m currently working on **My Portfolio**
 
